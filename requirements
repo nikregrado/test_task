@@ -1,0 +1,15 @@
+For Jupyter Notebook:
+
+numpy
+scikit_learn 
+skimage
+mathplotlib
+pandas
+
+For other scripts:
+
+TensorFlow
+Keras
+numpy
+skimage
+pandas
