@@ -1,5 +1,6 @@
 # test_task
 
+Solution for Data Science Bowl 2018 (https://www.kaggle.com/c/data-science-bowl-2018/overview)
 The main objective of this project is to build a Convolutional Neural Network on Unet Architeture. This is my first expirience with CNN and Unet, please don't judge to hard.
 
 Model was build by Keras, for backend used Tensorflow(cpu version).
@@ -29,8 +30,8 @@ ___
   
 ___
 
-3. model_unet.py
-  script with model and metrics
+3. model_unet.py 
+script with model and metrics
 
 ___
 
